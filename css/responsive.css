@@ -184,9 +184,6 @@
 /** responsive 610px  **/
 
 @media only screen and (max-width: 610px) {
-  html {
-    /* font-size: 7px; */
-  }
   .hire {
     flex-direction: column;
     align-items: center;
